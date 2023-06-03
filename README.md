@@ -59,6 +59,7 @@ Contributions to this project are welcome. If you have any suggestions, bug fixe
 If you have any questions, suggestions, or would like to connect, feel free to reach out to me. You can find my contact information below:
 
 - Email: [saidjon.ibn.usmon@gmail.com](mailto:saidjon.ibn.usmon@gmail.com)
+- LinkedIn: [Saidjon Saidov](linkedin.com/in/saidjonsaidov)
 - Website: [saidjonsaidov.netlify.app](http://saidjonsaidov.netlify.app)
 
 Thank you for checking out the ChatGPT Mobile Application Concept!
